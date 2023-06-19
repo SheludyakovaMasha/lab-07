@@ -200,7 +200,6 @@ $ sudo docker inspect logger
 $ cat logs/log.txt
 ```
 ![Снимок экрана от 2023-04-15 18-18-10](https://user-images.githubusercontent.com/125737299/232237248-8dd0f42f-b6c2-4b7d-8e70-98493532ebdc.png)
-![Снимок экрана от 2023-04-15 18-18-23](https://user-images.githubusercontent.com/125737299/232237259-bb6f1b5d-85f3-4706-af08-4a88e5e129d8.png)
 
 
 In `log.txt`will a appear text 
